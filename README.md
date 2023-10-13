@@ -3,7 +3,7 @@
 This is for Angular 8.
 
 # Notes
-
+      
 [General notes](docs/GENERAL.md)
 
 [Possibilities we can have in the Angular template](docs/POSSIBILITIES.md)
