@@ -1,7 +1,7 @@
 ![CI](https://github.com/anaselhajjaji/learn-angular/workflows/CI/badge.svg?branch=master)
 
 This is for Angular 8.
-
+    
   
 # Notes
       
