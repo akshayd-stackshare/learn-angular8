@@ -3,7 +3,7 @@
 This is for Angular 8.
     
   
-# Notes
+# Notes 
       
 [General notes](docs/GENERAL.md)
 
